@@ -1,9 +1,9 @@
-# Ruby on Rails Community Chat sample application
+# Ruby on Rails Community Chat Application
 
-This is the application is inspired byt the 
+This is the application is inspired by the 
 [*Ruby on Rails Tutorial:
-Learn Web Development with Rails*](https://www.railstutorial.org/)
-by [Michael Hartl](https://www.michaelhartl.com/).
+Learn Web Development with Rails*](https://www.railstutorial.org/) to create a Twitter-Style app for people to chat about issues 
+Affecting them in their community.
 
 ## License
 
